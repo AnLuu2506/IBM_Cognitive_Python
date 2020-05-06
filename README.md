@@ -11,4 +11,6 @@ Practices applied:
 5/ Data visualization
 
 Answer:
-1/ 
+1/ Which variables affect the car price?
+2/ Which variables can be used for car price prediction with high accuracy?
+3/ Which models should be used, linear regression or multi-linear regression or polynominal ones?
